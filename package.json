@@ -1,0 +1,44 @@
+{
+  "name": "vue-replay",
+  "version": "1.0.1",
+  "description": "移动web端回复框（自动触发键盘弹起ios+Android）",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothing49199/vue-replay.git"
+  },
+  "keywords": [
+    "vue-replay"
+  ],
+  "author": "nothing49199",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nothing49199/vue-replay/issues"
+  },
+  "homepage": "https://github.com/nothing49199/vue-replay#readme",
+  "dependencies": {
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "stylus-loader": "^3.0.2",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
