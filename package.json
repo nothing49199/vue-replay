@@ -1,8 +1,8 @@
 {
   "name": "vue-replay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "移动web端回复框（自动触发键盘弹起ios+Android）",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack"
   },
